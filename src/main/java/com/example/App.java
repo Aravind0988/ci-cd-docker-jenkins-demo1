@@ -20,7 +20,7 @@ public class App {
                     "<html>" +
                     "<head><title>CI/CD Demo</title></head>" +
                     "<body>" +
-                    "<h1>Hello from CI/CD Pipeline!</h1>" +
+                    "<h1>Hello from CI/CD Pipeline - Automatic Deployment!</h1>" +
                     "<h2>Application is running successfully.</h2>" +
                     "<p>Server: AWS EC2</p>" +
                     "<p>Container: Docker</p>" +
